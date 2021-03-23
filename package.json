@@ -1,0 +1,26 @@
+{
+  "name": "github-issues-stack-overflow-questions",
+  "version": "1.0.0",
+  "description": "Análise de Issues do Github e Perguntas e Respostas do Stack Overflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviassis/github-issues-stack-overflow-questions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raviassis/github-issues-stack-overflow-questions/issues"
+  },
+  "homepage": "https://github.com/raviassis/github-issues-stack-overflow-questions#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "graphql-request": "^3.2.0",
+    "mongodb": "^3.6.2",
+    "rxjs": "^6.6.3"
+  }
+}
